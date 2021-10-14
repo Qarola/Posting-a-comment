@@ -24,6 +24,7 @@ DB_PASSWORD= "your-password"
 
 ```sh
 $ npm run dev
+```
 
 
 ## Front-end corra:
