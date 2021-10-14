@@ -1,3 +1,3 @@
 # Posting-a-comment
 
-![image](/src/post-a-comment.PNG)
+![image](https://github.com/Qarola/Posting-a-comment/blob/main/post-a-comment.PNG)
