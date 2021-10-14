@@ -6,9 +6,7 @@
 
 ```sh
 $ npm install
-$ npm run dev
 ```
-
 ## Cree un archivo .env y agregue lo siguiente:
 
 `$ touch .env` 
@@ -22,6 +20,11 @@ HOST="localhost"
 DB_HOST = "localhost"
 DB_PASSWORD= "your-password"
 ```
+## Luego corra:
+
+```sh
+$ npm run dev
+
 
 ## Front-end corra:
 
