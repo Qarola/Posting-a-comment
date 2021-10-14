@@ -13,7 +13,6 @@ const NewComment = () => {
     e.preventDefault();
     dispatch(postComment(input));
     dispatch(getAllComments());
-    alert("Comment has been created");
     setInput({ textComment: "" });
   };
 
