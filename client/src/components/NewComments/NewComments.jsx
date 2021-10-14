@@ -29,7 +29,7 @@ const NewComment = () => {
           className="input-c"
           name="textComment"
           placeholder="Your comment here"
-          value={input.textcomment}
+          value={input.textComment}
           type="text"
           onChange={handleInputChange}
         />
